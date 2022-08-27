@@ -6,6 +6,11 @@ Task 1 - To complete this challenge, you must print Hello Solidity. Use str as a
 
 Task 2 - Create functions
 
+Task :
+To complete this challenge, you have to create a state variable and initialised it with 10 and then you have to create a function returnStateVariable( ) which returns the value of the created state variable .
+
+In the same way you have to create a local variable and initialised it with 20 and then you have to create a function returnLocalVariable( ) which returns the value of the created local variable.
+
 # Assignment 2
 
 OBJECTS FOR AUGUST 24, 2022
@@ -27,6 +32,7 @@ Return the average of a,b and c.
 OBJECTS FOR AUGUST 26, 2022
 
 Task 1 :
+
 Create a function digitSum(int n). Where n>0.
 Return the sum of digit for n.
 For Example - If n=345 then digitSum() must return 12 i.e. 3+4+5 = 12
