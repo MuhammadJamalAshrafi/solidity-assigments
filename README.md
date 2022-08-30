@@ -65,3 +65,18 @@ Create a function prime(uint n) . This prime() will check whether n is a prime n
 If n is a prime number then prime() returns 1 and n is not prime then prime() must return 0.
 
 For Example - If n=103 then prime() must return 1 as 103 is a prime number. If n=200 then prime() must return 0 as 200 is not a prime number.
+
+# Assignment 5
+
+OBJECTS FOR AUGUST 29, 2022
+
+Task 1 : 
+
+Create a function power(uint x,uint y) . This power() will calculate x raised to the power of y and return it.
+For Example - If x=2 y=3 then power() must return 8 (2x2x2=8) If x=7 y=2 then power() must return 49 (7x7=49)
+
+Task 2 :
+
+A palindrome number is a number that is same after reverse. For example 545, 151, 34543 etc.
+Create a function palindrome(uint n) . Thispalindrome() will check whether n is a palindrome or not.
+If n is a palindrome then palindrome() returns 1 and n is not palindrome then palindrome() must return 0.
